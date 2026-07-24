@@ -243,7 +243,7 @@ product-analytics-user-experience/
 
 Interactive dashboards:
 
-**Tableau Public:** https://public.tableau.com/app/profile/naveen.raj.kanagaraj/vizzes
+**Tableau Public:** https://public.tableau.com/app/profile/naveen.raj.kanagaraj/viz/ProductAnalyticsUserExperience/ExecutiveOverview
 
 ### Executive Overview
 
