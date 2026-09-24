@@ -283,7 +283,7 @@ Interactive dashboards:
 
 **Naveen Raj Kanagaraj**
 
-Master's Student, Marketing Analytics  
+Master's Student, Marketing Analysis 
 DePaul University
 
 - [Tableau Public](https://public.tableau.com/app/profile/naveen.raj.kanagaraj/vizzes)
