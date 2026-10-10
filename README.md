@@ -6,6 +6,8 @@
 
 > **Key outcome:** Identified technical reliability as the product area most strongly associated with lower user satisfaction by combining evidence from 1,257 survey responses and 50 qualitative interviews, then used those findings to prioritize product improvements.
 
+**Companion project:** These findings became the evidence base for a full product marketing strategy, covering positioning, segmentation, a reliability-gated go-to-market plan, and a North Star metric. See [bgmi-product-marketing-strategy](https://github.com/naveen-raj-kanagaraj/bgmi-product-marketing-strategy).
+
 ---
 
 ## Executive Summary
@@ -36,9 +38,9 @@ The goal of this project was to identify which factors were most strongly associ
 
 ## Why This Product
 
-The application selected for this study has a large, highly engaged user base and receives frequent product updates, making it an appropriate setting for studying user satisfaction, product reliability, developer trust, and feature prioritization.
+The product studied is Battlegrounds Mobile India (BGMI), a large-scale live-service mobile game with a highly engaged user base and frequent product updates, which makes it a useful setting for studying user satisfaction, product reliability, developer trust, and feature prioritization. Reaching 1,257 respondents was possible because I run a media brand covering this ecosystem.
 
-Although the application belongs to the gaming industry, the analytical framework is transferable to other large-scale consumer products.
+Although the product is a game, the analytical framework transfers to any large-scale consumer application.
 
 ---
 
@@ -153,6 +155,18 @@ Confidence in developer responsiveness and product direction was consistently lo
 - Monitor satisfaction trends over time
 
 These recommendations provide a prioritization framework rather than a replacement for experimentation or product validation.
+
+---
+
+## From Analysis to Go-to-Market
+
+The findings above became the evidence base for a separate product marketing project: [bgmi-product-marketing-strategy](https://github.com/naveen-raj-kanagaraj/bgmi-product-marketing-strategy).
+
+That study turns the reliability finding into a commercial plan. The survey evidence sets the sequencing, so demand generation is gated behind visible reliability work rather than running alongside it. The segmentation here becomes three go-to-market motions, with the cohort boundaries carried across as labelled hypotheses rather than as findings, and the prioritization ranking becomes a messaging framework where each pillar is anchored to a data point from this study.
+
+It also adds what this analysis could not see: market sizing, competitive benchmarking against rival titles, and revenue-per-user comparisons, all drawn from third-party estimates and labelled as such there.
+
+The two repositories are meant to be read together. This one is the evidence. The other is the decision.
 
 ---
 
